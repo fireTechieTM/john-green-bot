@@ -1,2 +1,2 @@
-# john-green-bot AKA an AI Deep Reinforcement Learning 2D Grid Reward Finder
+# AI Reward Finder on 2D Grid
 This was my final science project of middle school. I made this project so that I could experiment with changes to an "ai agent"'s environment. Of course I now know there are highly efficient graph and/or dynamic programming algorithms that accomplish this same thing flawlessly and without the need for thousands of trials, but this project still serves its purpose as an example of how reinforcement learning models basically work.
